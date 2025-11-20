@@ -48,6 +48,7 @@ Explore the screenshots and descriptions below to see examples of my work across
 ![image](./morpho_ecom/ecom5.png)
 ![image](./morpho_ecom/ecom6.png)
 ![image](./morpho_ecom/ecom7.png)
+![watch video](./morpho_ecom/ecom_update.mp4)
 ## morpho hrms with kivymd on windows
 ![image](./morpho_hrms/hrms1.png)
 ![image](./morpho_hrms/hrms2.png)
@@ -70,5 +71,6 @@ Explore the screenshots and descriptions below to see examples of my work across
 ![image](./xt_ai_yolo/ai_yolo1.png)
 ![image](./xt_ai_yolo/ai_yolo2.png)
 ![image](./xt_ai_yolo/ai_yolo3.png)
+
 
 
